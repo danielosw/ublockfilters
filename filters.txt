@@ -1,0 +1,64 @@
+! 2023-11-15 https://www.tomshardware.com
+||bot.tomshardware.com/$subdocument
+www.tomshardware.com##.slice-container-newsletterForm.newsletterForm-exitIntent.newsletter-slice.slice-container
+www.tomshardware.com##.chat_hammerbot-iframe-wrapper__outer
+
+! 2023-11-29 https://www.youtube.com
+www.youtube.com##.ytp-pause-overlay-container
+
+! 2023-12-24 https://en.wikipedia.org
+en.wikipedia.org##.cn-fundraising
+
+! 2024-01-02 https://www.upgrad.com
+||www.upgrad.com/__khugblog-next/_next/static/wH54b26cM7Cy-h3tja4us/_middlewareManifest.js$script,domain=www.upgrad.com
+||www.upgrad.com/__khugblog-next/_next/static/wH54b26cM7Cy-h3tja4us/_ssgManifest.js$script,domain=www.upgrad.com
+||www.upgrad.com/__khugblog-next/_next/static/wH54b26cM7Cy-h3tja4us/_buildManifest.js$script,domain=www.upgrad.com
+||www.upgrad.com/__khugblog-next/_next/static/chunks/pages/ugblog/%5Bslug%5D-d5659ad239aab578.js$script,domain=www.upgrad.com
+||www.upgrad.com/__khugblog-next/_next/static/chunks/8547-e046ea001f847290.js$script,domain=www.upgrad.com
+||www.upgrad.com/__khugblog-next/_next/static/chunks/4049-4a8ee6820ee649b3.js$script,domain=www.upgrad.com
+||www.upgrad.com/__khugblog-next/_next/static/chunks/343-7db1786703421965.js$script,domain=www.upgrad.com
+||www.upgrad.com/__khugblog-next/_next/static/chunks/6532-9afa9b60ee20f12c.js$script,domain=www.upgrad.com
+||www.upgrad.com/__khugblog-next/_next/static/chunks/2016-594369fb4083afb8.js$script,domain=www.upgrad.com
+||www.upgrad.com/__khugblog-next/_next/static/chunks/7842-ed0bcf6202701c0a.js$script,domain=www.upgrad.com
+||www.upgrad.com/__khugblog-next/_next/static/chunks/6704-f246242da8568c7b.js$script,domain=www.upgrad.com
+||www.upgrad.com/__khugblog-next/_next/static/chunks/225-91d1d5db119288a4.js$script,domain=www.upgrad.com
+||www.upgrad.com/__khugblog-next/_next/static/chunks/1653-71616577685d7a7f.js$script,domain=www.upgrad.com
+||www.upgrad.com/__khugblog-next/_next/static/chunks/pages/_app-01f7288d08d7a896.js$script,domain=www.upgrad.com
+www.upgrad.com##.dWFnev.UGFooterSticky__Container-sc-i6f21r-0
+
+! 2024-01-07 https://www.fallenlondon.com
+||images.fallenlondon.com/ads/steambundleRHSad.png$image
+www.fallenlondon.com##[src="//images.fallenlondon.com/ads/steambundleRHSad.png"]
+
+! 2024-01-07 https://www.bizjournals.com
+||frontend-cdn.bizjournals.com/_nuxt/numberUtil.55f04d77.js$script,domain=www.bizjournals.com
+
+! 2024-01-13 https://medium.com
+medium.com##.fg.cn.q.ab.uj.ui.uh.ug.uf.ue.v.ud.t.uc
+
+! 2024-01-13 https://www.bloomberg.com
+||bloomberg.map.fastly.net^$script,domain=www.bloomberg.com
+
+! 2024-01-31 https://draculatheme.com
+draculatheme.com##li:nth-of-type(5)
+||draculatheme.com/images/pro/banner-bg.png$image
+||draculatheme.com/images/pro/banner-bg.png$image
+draculatheme.com##.promo-banner
+
+! 2024-02-06 https://github.com
+github.com##div.react-code-size-details-in-header.Box-sc-g0xbh4-0:nth-of-type(2)
+
+! 2024-02-12 https://apnews.com
+apnews.com##.Page-trending
+
+! 2024-02-23 https://www.britannica.com
+||cdn.britannica.com/mendel-resources/3-111/images/shared/thistle-white.svg$image
+www.britannica.com##.text-center.align-self-center.align-items-center.d-flex.md-universal-access.marketing-banner.marketing-UA_BANNER
+
+! 2024-04-12 https://duckduckgo.com
+duckduckgo.com##.js-text-promo.header--text_promo.text_promo
+
+! 2024-04-14 https://apnews.com
+apnews.com##.LiveBlogPage-headline-sticky
+*$1p,strict3p,script,header=via:1.1 google
+
