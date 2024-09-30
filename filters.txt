@@ -70,3 +70,27 @@ www.youtube.com##ytd-player div.videowall-endscreen a[data-is-list=true]
 m.youtube.com##ytm-browse ytm-radio-renderer:upward(ytm-rich-item-renderer)
 m.youtube.com##ytm-search ytm-compact-radio-renderer
 youtube.com##ytd-rich-grid-row, #contents.ytd-rich-grid-row:style(display:contents !important;)
+!fandom
+fandom.com##.global-navigation
+fandom.com##.WikiaRail.right-rail-wrapper
+fandom.com##.page__right-rail
+fandom.com##.is-visible.fandom-sticky-header
+!AI "Assistants"
+www.dell.com###btn-virtual-assistant
+www.amazon.com##.nav-rufus-disco
+
+! Jul 27, 2024 https://www.wikihow.com
+www.wikihow.com###reviews
+
+! Jul 16, 2024 https://archlinux.org
+||archlinux.org/static/shells_logo.a9dc284565e5.png$image
+||archlinux.org/static/*_logo.*.png$image
+
+
+! 2024-02-11 https://www.nationstates.net
+||www.nationstates.net/images/ns-inhouse-squarish_1.png$image
+www.nationstates.net###dilemmasadboxinner > .ns-inhouse
+||www.nationstates.net/images/ns-inhouse-s*_1.png$image
+
+! 2023-12-11 https://www.khanacademy.org
+www.khanacademy.org###donate-banner
