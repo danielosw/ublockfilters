@@ -97,4 +97,4 @@ www.khanacademy.org###donate-banner
 ! Try to kill shorts
 www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
 www.youtube.com##ytd-reel-shelf-renderer
-
+m.youtube.com##.rich-section-content
