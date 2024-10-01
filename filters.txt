@@ -94,6 +94,7 @@ www.nationstates.net###dilemmasadboxinner > .ns-inhouse
 
 ! 2023-12-11 https://www.khanacademy.org
 www.khanacademy.org###donate-banner
+! Try to kill shorts
 www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
-
+www.youtube.com##ytd-reel-shelf-renderer
 
