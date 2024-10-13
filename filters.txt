@@ -98,3 +98,6 @@ www.khanacademy.org###donate-banner
 www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
 www.youtube.com##ytd-reel-shelf-renderer
 m.youtube.com##.rich-section-content
+
+! Oct 12, 2024 https://modrinth.com
+modrinth.com##.ad-parent
