@@ -101,3 +101,5 @@ m.youtube.com##.rich-section-content
 
 ! Oct 12, 2024 https://modrinth.com
 modrinth.com##.ad-parent
+! Accessability tools are not an "annoyance"
+||usablenet.com^$3p,badfilter
