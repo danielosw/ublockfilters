@@ -78,6 +78,9 @@ fandom.com##.is-visible.fandom-sticky-header
 !AI "Assistants"
 www.dell.com###btn-virtual-assistant
 www.amazon.com##.nav-rufus-disco
+github.com##.copilotPreview__container
+www.bestbuy.com##.blue-assist-banner-container
+www.bestbuy.com##.blue-assist-minimized-beacon-container
 
 ! Jul 27, 2024 https://www.wikihow.com
 www.wikihow.com###reviews
