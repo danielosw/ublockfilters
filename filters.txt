@@ -60,8 +60,13 @@ duckduckgo.com##.js-text-promo.header--text_promo.text_promo
 
 ! 2024-04-14 https://apnews.com
 apnews.com##.LiveBlogPage-headline-sticky
+! block first partyed google
 *$1p,strict3p,script,header=via:1.1 google
+! fix macmillanlearning
 @@||jigsaw.macmillanlearning.com/secure-token$1p,strict3p,script,header=via:1.1 google
+! fix vital source
+@@||jigsaw.vitalsource.com/$1p,strict3p,script,header=via:1.1 google
+
 !remove youtube mixes
 www.youtube.com##ytd-browse #video-title-link[href*="&start_radio=1"]:upward(ytd-rich-item-renderer)
 www.youtube.com##ytd-search ytd-radio-renderer
